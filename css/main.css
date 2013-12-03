@@ -1,0 +1,29 @@
+body {
+}
+
+#app {
+  background-color: white;
+}
+
+#mantras {
+  float: left;
+  margin-left: 10px;
+  border: 1px dotted gray;
+}
+
+#timer {
+  float: left;
+  margin-left: 10px;
+  border: 1px dotted gray;
+}
+
+#mantra {
+  float: left;
+  margin-left: 10px;
+  border: 1px dotted gray;
+}
+
+#countdown {
+  font-size: 3em;
+}
+
