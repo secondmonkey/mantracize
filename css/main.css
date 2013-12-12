@@ -5,25 +5,10 @@ body {
   background-color: white;
 }
 
-#mantras {
-  float: left;
-  margin-left: 10px;
-  border: 1px dotted gray;
-}
-
-#timer {
-  float: left;
-  margin-left: 10px;
-  border: 1px dotted gray;
-}
-
-#mantra {
-  float: left;
-  margin-left: 10px;
-  border: 1px dotted gray;
+#mantras, #custom, #timer, #currentmantra {
+  margin: 2em 2em;
 }
 
 #countdown {
   font-size: 3em;
 }
-

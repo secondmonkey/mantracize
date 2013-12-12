@@ -1,0 +1,1 @@
+[ ] Refactor with jquery and Angular
