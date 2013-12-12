@@ -1,0 +1,14 @@
+body {
+}
+
+#app {
+  background-color: white;
+}
+
+#mantras, #custom, #timer, #currentmantra {
+  margin: 2em 2em;
+}
+
+#countdown {
+  font-size: 3em;
+}
