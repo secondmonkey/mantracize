@@ -1,8 +1,8 @@
-[ ] Add sound recording and playback
-[ ] Add logo and splash pages
-[ ] Add static page
+[ ] Audio record http://stackoverflow.com/questions/9241157/using-phonegap-to-record-audio-to-documents-folder-on-ios
+[ ] Logo and splash images 
+[ ] Static page
 [ ] Restyle
-[ ] Refactor to use Angular
+[ ] Angular
 
 [x] Refactor with jquery 
-
+[x] Audio play
